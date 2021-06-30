@@ -1,7 +1,7 @@
 # Mars Web Scraping
 
 ## Project Directive
-Using Flask and MongoDB, scrape NASA Mars News Site and collection information (article titles, images, Mars facts) to display in a webpage.
+Using Flask and MongoDB, scrape NASA Mars News Site and collect information (article titles, images, Mars facts) to display in a webpage.
 
 ## Tools/Libraries
 Splinter - to navigate through sites for information\

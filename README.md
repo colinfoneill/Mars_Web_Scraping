@@ -5,8 +5,8 @@ Using Flask and MongoDB, scrape NASA Mars News Site and collection information (
 
 ## Tools/Libraries
 Splinter - to navigate through sites for information\
-Beautiful Soup - to parse through and collect website information
-MongoDB - to store information collected for application use
+Beautiful Soup - to parse through and collect website information\
+MongoDB - to store information collected for application use\
 Flask - to test web application on your machine
 
 ## How to Run

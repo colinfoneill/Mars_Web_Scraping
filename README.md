@@ -12,8 +12,8 @@ Flask - to test web application on your machine
 ## How to Run
 Navigate to the "mission_to_mars" directory via console and run app.py with python. The website should look like the images below.
 
-![web image 1](images/web1)
+![web image 1](images/web1.PNG)
 
-![web image 2](images/web2)
+![web image 2](images/web2.PNG)
 
 
